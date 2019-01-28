@@ -31,7 +31,7 @@ We back up all our critical assets and regularly attempt to restore the backup t
 ## Application security protection
 
 - We use a runtime protection system that identifies and blocks OWASP Top 10 and business logic attacks in real-time.
-- We use security headers to protect our users from attacks. You can check our grade on [this security scanner](https://www.sqreen.io/scan?url=https://app.woflow.com).
+- We use security headers to protect our users from attacks.
 - We use security automation capabilities that automatically detect and respond to threats targeting our apps.
 
 ## Secure development
